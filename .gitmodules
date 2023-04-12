@@ -1,0 +1,3 @@
+[submodule "Badnets"]
+	path = Badnets
+	url = git@github.com:Dillonsd/Badnets.git
