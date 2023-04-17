@@ -1,4 +1,16 @@
-# Results
+# Compression Aware Poisoning
+
+This folder contains the code for the compression-aware poisoning experiments.
+
+## Usage
+
+To run the experiments, run the following command:
+
+```bash
+python3 cap.py
+```
+
+## Results
 
 Percentile:  10
 Test loss (clean): 0.0385
